@@ -1,3 +1,13 @@
+import { initPage } from './page.js';
+
+function init() {
+    initPage();
+}
+
+init();
+
+// - - -
+
 const titleInputId = 'title'
 const contentInputId = 'content'
 
