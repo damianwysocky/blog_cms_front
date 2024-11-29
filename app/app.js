@@ -1,7 +1,7 @@
-import { initPage } from './page.js';
+import { initPages } from './pages.js';
 
 function init() {
-    initPage();
+    initPages();
 }
 
 init();
